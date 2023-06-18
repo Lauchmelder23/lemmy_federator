@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "moduleResolution": "node",
+        "outDir": "build",
+        "rootDir": "src",
+        "target": "ES2017"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
